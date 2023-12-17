@@ -1,0 +1,26 @@
+Product Code: 101
+Cost: $100.0
+Number of Items: 2
+Product Value: $200.0
+
+Product Code: 102
+Cost: $200.0
+Number of Items: 3
+Product Value: $600.0
+
+Product Code: 103
+Cost: $300.0
+Number of Items: 0
+Product Value: $0.0
+
+Product Code: 104
+Cost: $500.0
+Number of Items: 15
+Product Value: $7500.0
+
+Product Code: 105
+Cost: $300.0
+Number of Items: 4
+Product Value: $1200.0
+
+Total Value of All Products: $9500.0
